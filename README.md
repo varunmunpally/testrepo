@@ -1,4 +1,4 @@
 # testrepo
 #<include stdio.h>
 #include conio.h>
-i am a great person
+i dont like comuters
